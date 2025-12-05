@@ -23,7 +23,7 @@ with minimal fuss.
 
 ## Structure
 
->[!INFO]
+>[!NOTE]
 > Galaxy extensions versions allow for backwards-compatibility between Galaxy
 > major versions. The extension version should be the **minimum** supported
 > Galaxy version supported (i.e. extension v22.05 can be installed on any
