@@ -1,7 +1,9 @@
 # Galaxy Extensions
 
 This repository contains Galaxy webhook extensions that are deployed by the
-[Ansible role](https://github.com/galaxyproject/ansible-role-extensions).
+[Ansible role](https://github.com/galaxyproject/ansible-role-extensions). These
+extensions are the combined work of Galaxy EU and Galaxy AU teams over the
+years, with particular acknowledgement to the work of @hexylena.
 
 
 ## Usage
